@@ -5,8 +5,9 @@
       <sourceFolder url="file://$MODULE_DIR$/ch07/SpiderNode" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch06" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ch07/ControlNode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ch09/9_2_DynamicSpider" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 2.7.12 (D:\Python27\python.exe)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 2.7.12 virtualenv at G:\Python27_Crawler" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

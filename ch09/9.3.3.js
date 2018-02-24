@@ -1,4 +1,4 @@
-var page = require('webpage').create();
+/**var page = require('webpage').create();
 page.open('http://www.cnblogs.com/qiyeboy/', function(status) {
   console.log("Status: " + status);
   if(status === "success") {
@@ -6,7 +6,8 @@ page.open('http://www.cnblogs.com/qiyeboy/', function(status) {
   }
   phantom.exit();
 });
-/**
+*/
+
 var page = require('webpage').create();
 
 page.viewportSize = { width: 1024, height: 768 };
@@ -19,4 +20,4 @@ page.open('http://www.cnblogs.com/qiyeboy/', function(status) {
   }
   phantom.exit();
 });
- */
+

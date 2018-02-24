@@ -2,8 +2,8 @@
 import codecs
 import json
 import re
-from DynamicSpider.DataOutput import DataOutput
-from DynamicSpider.HtmlDownloader import HtmlDownloader
+from DataOutput import DataOutput
+from HtmlDownloader import HtmlDownloader
 
 
 class HtmlParser(object):

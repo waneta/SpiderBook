@@ -1,8 +1,9 @@
 #coding:utf-8
 import time
-from DynamicSpider.DataOutput import DataOutput
-from DynamicSpider.HtmlDownloader import HtmlDownloader
-from DynamicSpider.HtmlParser import HtmlParser
+from DataOutput import DataOutput
+from HtmlDownloader import HtmlDownloader
+from HtmlParser import HtmlParser
+
 
 
 class SpiderMan(object):
